@@ -11,7 +11,7 @@
 - Language : Python, C++, Javascript
 - Back-End : Flask, Node.js
 - Cloud & DevOps : AWS(EKS, EC2, RDS, S3 등), Docker, Kubernetes
-- Database : MongoDB(NoSQL), MariaDB(SQL)
+- Database : MongoDB, MariaDB
 - AI & Computer Vision : OpenCV, Pytorch
 
 ### Contact
